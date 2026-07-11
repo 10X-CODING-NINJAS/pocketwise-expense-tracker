@@ -4,7 +4,7 @@ A personal expense tracker built using React, Vite, Tailwind CSS, and Supabase. 
 
 ## Live Demo
 
-Add your Vercel deployment link here.
+Deployment Link - https://pocketwise-expense-tracker-vert.vercel.app/
 
 ## GitHub Repository
 
