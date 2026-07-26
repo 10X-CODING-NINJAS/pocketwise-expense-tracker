@@ -8,7 +8,7 @@ Deployment Link - https://pocketwise-expense-tracker-vert.vercel.app/
 
 ## GitHub Repository
 
-https://github.com/connectadityamalik/pocketwise-expense-tracker
+https://github.com/10X-CODING-NINJAS/pocketwise-expense-tracker
 
 ---
 
